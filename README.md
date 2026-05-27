@@ -6,13 +6,13 @@ Using data from the 2025 Student Academic Experience Survey, I analysed:
 - Academic expectations vs experiences
 - Perceived value for money
 
-This project was completed as a beginner R project before starting BSc Social Sciences with Data Science at Ucl.
+This project was completed as a beginner R project before starting BSc Social Sciences with Data Science at UCL.
 
 ## Files
 
 - [trad_vs_mature.R](trad_vs_mature.R) - R code
 - [methodology.pdf](methodology.pdf) - Methodology, Findings, and Limitations
-- [barcharts](barcharts)/ - Visualisations
+- [barcharts](barcharts) - Visualisations
 
 ## Data Source
 Student Academic Experience Survery (HEPI) 
