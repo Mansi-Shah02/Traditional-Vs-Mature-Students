@@ -11,7 +11,7 @@ This project was completed as a beginner R project before starting BSc Social Sc
 ## Files
 
 - [trad_vs_mature.R](trad_vs_mature.R) - R code
-- methodology.docx - Methodology, Findings and Limitations
+- [Methodology.pdf](Methodology.pdf) - Methodology, Findings, and Limitations
 - charts/ - Visualisations
 
 ## Data Source
