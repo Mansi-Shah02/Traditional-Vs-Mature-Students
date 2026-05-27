@@ -1,0 +1,2 @@
+# Traditional-Vs-Mature-Students
+This project explores whether students who are likely to have entered higher education as mature students report different university experiences from those who are more likely to have entered directly from school or sixth form.
