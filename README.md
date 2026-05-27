@@ -12,7 +12,7 @@ This project was completed as a beginner R project before starting BSc Social Sc
 
 - [trad_vs_mature.R](trad_vs_mature.R) - R code
 - [methodology.pdf](methodology.pdf) - Methodology, Findings, and Limitations
-- charts/ - Visualisations
+- [barcharts](barcharts)/ - Visualisations
 
 ## Data Source
 Student Academic Experience Survery (HEPI) 
