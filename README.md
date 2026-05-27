@@ -9,9 +9,10 @@ Using data from the 2025 Student Academic Experience Survey, I analysed:
 This project was completed as a beginner R project before starting BSc Social Sciences with Data Science at Ucl.
 
 ## Files
-- 'trad_vs_mature.R' - R code
-- 'methodology.docx' Methodology, Findings and Limitations 
-- 'charts/' - visualisations
+
+- trad_vs_mature.R - R code
+- methodology.docx - Methodology, Findings and Limitations
+- charts/ - Visualisations
 
 ## Data Source
 Student Academic Experience Survery (HEPI) 
